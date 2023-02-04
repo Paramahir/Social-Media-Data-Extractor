@@ -3,13 +3,13 @@ This will extract public details of users from twitter and video details from Yo
 
 <b>Prerequisite</b>
 
-Python==3.0
-apiclient==1.0.4
-Tweepy
+Python==3.0<br>
+apiclient==1.0.4<br>
+Tweepy<br>
 
 <b>Installation</b>
 
-pip install apiclient
+pip install apiclient<br>
 pip install tweepy
 
 <b>Usage</b>
